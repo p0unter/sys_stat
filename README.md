@@ -1,13 +1,8 @@
 Learn the status of your Koylayca Linux system-based operating system features:
-- Ram
-- CPU
-- CPU Temperature
-- GPU
-- GPU Temperature
-- Disk Partitions
-- Disk Size
-- Disk Gap
-- Disk Swap
+- Ram Used
+- CPU / Temperature
+- GPU / Temperature
+- Disk Partitions / Gap / Swap / Size
 - Net: Download/kps
 - Net: Upload/kps
 
